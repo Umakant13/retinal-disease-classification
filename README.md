@@ -87,7 +87,7 @@ python predict.py --image_path path/to/image.jpg
 ```
 ## Screenshots
 
-![Main GUI](https://drive.google.com/file/d/1JAHr6-NtJRCPP4ibxVso1dtZeUPy_ouc/view?usp=sharing)
+![Main GUI](https://drive.google.com/uc?id=1JAHr6-NtJRCPP4ibxVso1dtZeUPy_ouc)
 
 ![Registration Page](https://drive.google.com/file/d/1cRNYV8MwElizX3CfTt3XImM1o2w0oe6w/view?usp=sharing)
 
