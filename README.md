@@ -66,7 +66,8 @@ The dataset used in this project consists of retinal images annotated with corre
 
 ## Model Architecture
 
-![Model Architecture]("https://drive.google.com/file/d/1etA3__6MJ4GaZYuqvAWYoipCPmBPsRNx/view?usp=drive_link")
+![Model Architecture](https://drive.google.com/uc?id=1etA3__6MJ4GaZYuqvAWYoipCPmBPsRNx "Model Architecture")
+
 ## Usage
 
 1. **Data Preparation**: Ensure that your dataset is organized in the appropriate directory structure.
@@ -89,21 +90,22 @@ python predict.py --image_path path/to/image.jpg
 
 ![Main GUI](https://drive.google.com/uc?id=1JAHr6-NtJRCPP4ibxVso1dtZeUPy_ouc "Main GUI")
 
-![Registration Page](https://drive.google.com/file/d/1cRNYV8MwElizX3CfTt3XImM1o2w0oe6w/view?usp=sharing)
+![Registration Page](https://drive.google.com/uc?id=1cRNYV8MwElizX3CfTt3XImM1o2w0oe6w "Registration Page")
 
-![Authentication](https://drive.google.com/file/d/1IIND5XUgSUtkq7dq1cMHo85u6azH1B-K/view?usp=sharing)
+![Authentication](https://drive.google.com/uc?id=1IIND5XUgSUtkq7dq1cMHo85u6azH1B-K "Authentication")
 
-![Login Page](https://drive.google.com/file/d/173Xc9mNFG_py_pXMdLjOS8ltAJQBO3qV/view?usp=sharing)
+![Login Page](https://drive.google.com/uc?id=173Xc9mNFG_py_pXMdLjOS8ltAJQBO3qV "Login Page")
 
-![Home Dashboard](https://drive.google.com/file/d/1ua6RoT5i_WV0niF2fNM4vzb_51q_tuSr/view?usp=sharing)
+![Home Dashboard](https://drive.google.com/uc?id=1ua6RoT5i_WV0niF2fNM4vzb_51q_tuSr "Home Dashboard")
 
-![Normal Image](https://drive.google.com/file/d/1DfLijB8epuc1GtVNXHW4m3lWzlA1IwtS/view?usp=sharing)
+![Normal Image](https://drive.google.com/uc?id=1DfLijB8epuc1GtVNXHW4m3lWzlA1IwtS "Normal Image")
 
-![High Myopia](https://drive.google.com/file/d/1a_KQ9sDNVLkrS4liyj5flG42SBhIPFo7/view?usp=sharing)
+![High Myopia](https://drive.google.com/uc?id=1a_KQ9sDNVLkrS4liyj5flG42SBhIPFo7 "High Myopia")
 
-![Pathological Myopia](https://drive.google.com/file/d/1cxN7kcksvwxd2cDyECc9Phe9jtAdoUmV/view?usp=sharing)
+![Pathological Myopia](https://drive.google.com/uc?id=1cxN7kcksvwxd2cDyECc9Phe9jtAdoUmV "Pathological Myopia")
 
-![Model Accuracy](https://drive.google.com/file/d/1C_XGZ2z5D4lX40WuZHwvkShZlwK9paCH/view?usp=sharing)
+![Model Accuracy](https://drive.google.com/uc?id=1C_XGZ2z5D4lX40WuZHwvkShZlwK9paCH "Model Accuracy")
+
 
 ## Execution Video
 
