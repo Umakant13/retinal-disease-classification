@@ -1,6 +1,6 @@
 
 # Retinal Diseases Classification using Deep Learning
-
+ 
 This project aims to classify retinal diseases using deep learning techniques. By leveraging convolutional neural networks (CNNs), we can analyze retinal images and accurately identify various retinal conditions.
  
 
